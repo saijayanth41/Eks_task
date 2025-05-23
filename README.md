@@ -81,6 +81,3 @@ kubectl get services
 - **Cluster Management**: Automate the creation of an EKS cluster.
 - **Application Deployment**: Simplify the deployment of your containerized applications on EKS.
 - **Scalability**: Easily scale your applications with Kubernetes and EKS.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
